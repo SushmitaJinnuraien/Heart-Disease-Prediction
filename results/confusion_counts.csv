@@ -1,0 +1,7 @@
+Method,TN,FP,FN,TP,Sensitivity (%),Specificity (%),Precision (%)
+Perceptron,36,9,9,27,75.0,80.0,75.0
+Logistic Regression,38,7,9,27,75.0,84.4,79.4
+SVM (linear),39,6,9,27,75.0,86.7,81.8
+Decision Tree,33,12,14,22,61.1,73.3,64.7
+Random Forest,39,6,11,25,69.4,86.7,80.6
+K-Nearest Neighbor (K=30),41,4,13,23,63.9,91.1,85.2

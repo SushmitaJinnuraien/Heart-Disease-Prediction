@@ -1,0 +1,7 @@
+Method,CV Mean Accuracy (%),CV Std (%)
+Perceptron,78.3,6.9
+Logistic Regression,84.4,3.9
+SVM (linear),84.9,3.7
+Decision Tree,76.7,4.8
+Random Forest,82.0,3.7
+K-Nearest Neighbor (K=30),84.4,4.1
